@@ -1,6 +1,6 @@
 # CRUD_Gerenciador_Academico
 
-# 🎓 Sistema de Gestão Académica (CRUD)
+# 🎓 Sistema de Gestão Acadêmica (CRUD)
 
 Um sistema completo de gestão académica desenvolvido em **Python**. O projeto foi estruturado utilizando o paradigma procedural, aplicando conceitos avançados de reutilização de código através de funções genéricas para manipulação de coleções de dados (estruturadas como dicionários dentro de listas).
 
